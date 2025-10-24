@@ -76,9 +76,6 @@ Each dataset contains approximately **2,000 records**.
 
 ---
 
-
----
-
 ### 🧑‍💻 Author
 **Aflah C**  
 Email: aflahcholayil@gmail.com
